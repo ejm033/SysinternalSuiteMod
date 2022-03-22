@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\autorunsc64.exe -accepteula -a * -s -ct > %USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputAutoRuns.csv

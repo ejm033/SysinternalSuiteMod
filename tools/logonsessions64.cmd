@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\logonsessions64 -accepteula -p -c > %USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputLogonSessions.csv

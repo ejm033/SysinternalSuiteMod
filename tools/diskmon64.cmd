@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\diskmon64.exe -accepteula -l

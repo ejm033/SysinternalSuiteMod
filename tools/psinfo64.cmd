@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\PsInfo64.exe -accepteula -h -s -d > %USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputPsInfo.txt
