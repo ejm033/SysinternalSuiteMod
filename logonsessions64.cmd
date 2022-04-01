@@ -1,1 +1,0 @@
-%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\logonsessions64.exe -accepteula -p -c > outputLogonSessions64.csv
