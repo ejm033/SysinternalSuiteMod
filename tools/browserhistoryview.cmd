@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\BrowsingHistoryView.exe /cfg "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\bhv.cfg" /scomma "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputBrowserHistory.csv" /sort "Visit Time"
