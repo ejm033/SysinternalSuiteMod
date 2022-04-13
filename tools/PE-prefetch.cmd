@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\PECmd.exe -d "C:\Windows\prefetch" --csv "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs"
