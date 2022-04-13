@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\BrowsingHistoryView.exe /cfg "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\bhv-edge.cfg" /scomma "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputBrowserHistory-Edge.csv" /sort "Visit Time" /LoadIE 1
