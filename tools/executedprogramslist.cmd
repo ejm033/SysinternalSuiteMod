@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\ExecutedProgramsList.exe /shtml "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputExecutedProgramsList.html"
