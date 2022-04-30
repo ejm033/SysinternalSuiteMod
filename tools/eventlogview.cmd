@@ -1,0 +1,1 @@
+%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\tools\FullEventLogView.exe /RunAsAdmin /EventIDFilter 2 /EventIDFilterStr "4624,4625,4728,4732,4756,1102,4740,4663" /sort "Event Time" /shtml "%USERPROFILE%\Documents\SysinternalSuiteMod\SysinternalSuiteMod-main\outputs\outputEventLogView.html"
